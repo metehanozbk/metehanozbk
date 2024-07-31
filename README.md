@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Metehan</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
-<img align"right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzIxcGZsejA0bXJ4eTI1ZjRjejA4bzduMGZ4NXpjMjQ5OHN2NGN1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif>
+<img align"right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzIxcGZsejA0bXJ4eTI1ZjRjejA4bzduMGZ4NXpjMjQ5OHN2NGN1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=metehanozbk" alt="metehanozbk" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/metehan_ozbk" target="blank"><img src="https://img.shields.io/twitter/follow/metehan_ozbk?logo=twitter&style=for-the-badge" alt="metehan_ozbk" /></a> </p>
