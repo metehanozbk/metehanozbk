@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/metehan_ozbk" target="blank"><img src="https://img.shields.io/twitter/follow/metehan_ozbk?logo=twitter&style=for-the-badge" alt="metehan_ozbk" /></a> </p>
 
-- 🔭 I’m currently working on **Noven Energy**
+- 🔭 I’m currently working on **Sisoft A.Ş.**
 
 - 🌱 I’m currently learning **.NET, Angular ,C#, Docker**
 
